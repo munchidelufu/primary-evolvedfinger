@@ -1,12 +1,3 @@
-"""
-Descripttion: DeepModelIPProtection
-version: 1.0
-Author: XtHhua
-Date: 2024-04-08 23:29:45
-LastEditors: XtHhua
-LastEditTime: 2024-04-09 00:01:58
-"""
-
 from tqdm import tqdm
 
 import torch

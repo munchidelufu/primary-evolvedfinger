@@ -1,21 +1,3 @@
-"""
-Descripttion: DeepModelIPProtection
-version: 1.0
-Author: XtHhua
-Date: 2024-04-09 00:36:27
-LastEditors: XtHhua
-LastEditTime: 2024-04-09 01:05:52
-"""
-
-"""
-Descripttion: DeepModelIPProtection
-version: 1.0
-Author: XtHhua
-Date: 2024-04-09 00:36:27
-LastEditors: XtHhua
-LastEditTime: 2024-04-09 00:41:52
-"""
-
 import os
 import csv
 from tqdm import tqdm

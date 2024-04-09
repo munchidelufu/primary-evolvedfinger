@@ -1,12 +1,3 @@
-"""
-Descripttion: DeepModelIPProtection
-version: 1.0
-Author: XtHhua
-Date: 2024-04-08 23:53:43
-LastEditors: XtHhua
-LastEditTime: 2024-04-08 23:55:48
-"""
-
 import os
 import time
 import random

@@ -1,11 +1,3 @@
-"""
-Descripttion: DeepModelIPProtection
-version: 1.0
-Author: XtHhua
-Date: 2024-04-08 23:29:37
-LastEditors: XtHhua
-LastEditTime: 2024-04-08 23:33:25
-"""
 
 from functools import partial
 

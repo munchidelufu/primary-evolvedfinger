@@ -1,12 +1,3 @@
-"""
-Descripttion: DeepModelIPProtection
-version: 1.0
-Author: XtHhua
-Date: 2024-04-09 00:49:00
-LastEditors: XtHhua
-LastEditTime: 2024-04-09 11:48:33
-"""
-
 from collections import defaultdict
 
 import cv2
