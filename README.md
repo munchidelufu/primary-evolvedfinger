@@ -36,4 +36,4 @@ python.evolved.py
 python .model_finger_match.py
 ```
 ## note
-CV code can find at SAC.
+CV code can find at SAC, we reuse the code.
