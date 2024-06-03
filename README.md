@@ -29,7 +29,7 @@ python .primary.py
 ```
 ## Evolved-Fingerprint
 ```
-python.evolved.py
+python .evolved.py
 ```
 ## ModelFingerprintMatch
 ```
